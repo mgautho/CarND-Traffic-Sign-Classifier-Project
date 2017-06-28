@@ -5,3 +5,6 @@ models
 *.swp
 *.p
 *.ppm
+*.PNG
+GTSRB*
+
