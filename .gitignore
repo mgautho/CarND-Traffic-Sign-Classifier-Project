@@ -7,4 +7,5 @@ models
 *.ppm
 *.PNG
 GTSRB*
+traffic-signs-data.zip
 
